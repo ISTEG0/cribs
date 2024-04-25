@@ -83,3 +83,4 @@ git remote add <имя удаленного репозитория, напрме
 git remote set-url origin https://gitflic.ru/project/dcmedia/anvikor-ru.git | - поменять репозиторий origin (основной на другой)
 git remote rm <имя_удаленного_репозитория, например origin> | - удалить удаленный репозиторий
 git remote -v | - проверить какие дулаенный репозитории подключены
+git push -u origin <название_ветки> | - чтобы запушить новую ветку на удаленный репозиторий
